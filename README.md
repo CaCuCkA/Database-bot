@@ -26,7 +26,7 @@ ____________
 + /edit_vehicle - update vehicle data
 ________
 ## Rules
-The rules for use are very simple, but if you don't follow them, the bot will refuse to work with you.
+#### The rules for use are very simple, but if you don't follow them, the bot will refuse to work with you.
 1. Follow the instructions written in the messages. If you are asked to write without spaces or with a "-", do so.
 2. Look at the examples of the query. Each query is accompanied by the example written in the message above.
 3 If you use the command "\edit_driver" or "\edit_vehicle", don't forget to exit at the end of the usage
